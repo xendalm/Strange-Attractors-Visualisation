@@ -1,4 +1,4 @@
 # Strange Attractors Visualisation
 C++ OpenGL results:
 
-![MyCollages](https://user-images.githubusercontent.com/35781938/217320539-691a6367-d8d9-404f-a3a0-bb2de282e959.png)
+![Collage](https://user-images.githubusercontent.com/35781938/217324635-3913ae44-24f5-4f51-bc21-af526ecea596.png)
